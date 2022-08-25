@@ -15,15 +15,20 @@
 
 ### 1.1 Ihr Projekt
 
-Mein Projekt ist das erstellen von einem Number guessing spiel.
+Mein Projekt ist das Erstellen von einem Number guessing Spiel.
 Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herausfinden.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |     Muss        |  Funktional    | Als ein Spieler möchte ich dass, der Computer eine Zufallszahl von 1-100, damit der Spieler sie daraufhin erraten kann.           |
+| 2    |     Muss        |  Funktional    | Als ein Spieler möchte ich die Zahl erraten, damit ich das Spiel spielen kann.                                                   |
+| 3   |     Muss        |   Funktional   | Als ein Spieler möchte ich wissen ob ich die richtige Zahl eingetragen habe, damit ich weiss ob ich die Zahl in Ziffern oder Buchstaben eingeben muss. |
+| 4    |     Muss        |   Funktional   | Als ein Spieler möchte ich wissen ob die Zahl erraten worden ist, damit ich weiss ob ich sie erraten habe oder weiter raten muss. |
+| 5    |     Muss        |   Funktional   | Als ein Spieler möchte ich wissen ob die Zahl kleiner/grösser ist als geraten, damit ich weiss ob ich höher oder niedriger schätzen muss. |
+| 6    |     Muss        |    Funktional    | Als ein Spieler möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann. |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -31,9 +36,13 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
+| 1.1  | Generierte Zahl 1-100 |       | *zufällige Zahl*               |
+| 2.1 |  Eingabe einer Zahl            |   23      |  *zufällige Zahl* *Eingabe der Zahl*                 |
+| 3.1  | Fehlermeldung bei Falscher Zahl           |   123      |  Falsche Eingabe bitte wählen sie ein Natürliche Zahl von 1-100 und geben sie Ziffern ein                 |
+| 4.1 |  Richtige Zahl bestimmt            | 23        |  Richtige Zahl  |
+| 5.1 |  Falsche Zahl die Zahl ist grösser          |    45     |     Die Zahl ist kleiner als 45    |
+| 5.2 |  Falsche Zahl die Zahli ist grösser          |   12      |    Die Zahl ist grösser als 12      |
+| 6.1 |  Versuche der Spieler eingerichtet            |  Vorgang       |   Du hast *Anzahl Versuche* gebraucht, um die Zahl zu erraten   |
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
@@ -45,8 +54,14 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 1.9.22  |  Bischof | Code schreiben welches eine Zahl von 1-100 generiert  |45 min|
+| 2.A  | 1.9.22  | Bischof | Code für die Eingabe von der Zahl                      |45 min|
+| 3.A  | 1.9.22  | Bischof | Fehlermeldung bei Falscher Eingabe                      |45 min|
+| 4.A  | 1.9.22  | Bischof | Ausgabe ob die Zahl erraten worden ist                 |22 min|
+| 5.A  | 1.9.22  | Bischof | Ausgabe ob Zahl zu gross ist                           |22 min|
+| 5.B  | 1.9.22  | Bischof | Ausgabe ob Zahl zu klein ist                           |22 min|
+| 6.A  | 1.9.22  | Bischof |  Ausgabe Anzahl versuchen                              |45 min|
+
 
 Total: 
 

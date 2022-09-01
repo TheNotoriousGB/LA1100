@@ -55,7 +55,7 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 1.9.22  |  Bischof | Code schreiben welches eine Zahl  generiert           |45 min|
-| 1.B | 1.9.22   | Bischof | Code generiren aber begrenzt von 1-10                  |10 min|
+| 1.B | 1.9.22   | Bischof | Code generiren aber begrenzt von 1-100                  |10 min|
 | 2.A  | 1.9.22  | Bischof | Code für die Eingabe von der Zahl                      |15 min|
 | 3.B  | 1.9.22  | Bischof | Begrenzung von Eingabe der Zahl                        |30 min|
 | 4.A  | 1.9.22  | Bischof | Fehlermeldung bei Falscher Eingabe                     |45 min|

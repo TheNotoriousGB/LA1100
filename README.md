@@ -7,8 +7,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|  1.9 |  1.0.0   | Ich habe an die fast alles hinbekommen in den User Stories jedoch funktionieren viele Schleifen nicht und die Fehlermeldung habe ich auch noch nicht hinbekommen |
+| 8.9      | Ich habe fast alles fertig die schleifen funktionieren da ich nicht mehr so viel If benutzt habe und mehr mit switch cases gearbeitet habe.   |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -81,13 +81,13 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
-| 1.b  |  1.9     |   Gabriel        |    10 min           |       5 min             |
-| 2.A  |  1.9     |   Gabriel        |    15 min           |      10 min             |
-| 3.A  |          |   Gabriel        |    30 min           |       - min             |
+| 1.b  |  1.9     |   Gabriel        |    10 min           |       20 min             |
+| 2.A  |  1.9     |   Gabriel        |    15 min           |      20 min             |
+| 3.A  |   8.9    |   Gabriel        |    30 min           |       - min             |
 | 4.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
 | 5.A  |  1.9     |   Gabriel        |    22 min           |       40 min            |
-| 6.B  |  1.9     |   Gabriel        |    22 min           |       5 min             |
-| 7.A  | 1.9      |   Gabriel        |     - min           |       - min             |
+| 6.B  |  1.9     |   Gabriel        |    22 min           |        30 min             |
+| 7.A  | 1.9      |   Gabriel        |     45min           |       30 min             |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.

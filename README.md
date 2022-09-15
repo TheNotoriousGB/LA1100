@@ -56,13 +56,13 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 1.9.22  |  Bischof | Code schreiben welches eine Zahl  generiert           |45 min|
 | 1.B | 1.9.22   | Bischof | Code generiren aber begrenzt von 1-100                  |10 min|
-| 2.A  | 1.9.22  | Bischof | Code für die Eingabe von der Zahl                      |15 min|
+| 2.A  | 1.9.22  | Bischof | Code für die Eingabe von der Zahl                      |8 min|
 | 3.A  | 1.9.22  | Bischof | Begrenzung von Eingabe der Zahl                        |30 min|
-| 4.A  | 1.9.22  | Bischof | Fehlermeldung bei Falscher Eingabe                     |45 min|
+| 4.A  | 1.9.22  | Bischof | Fehlermeldung bei Falscher Eingabe                     |15 min|
 | 5.A  | 1.9.22  | Bischof | Ausgabe ob die Zahl erraten worden ist                 |22 min|
-| 6.A  | 1.9.22  | Bischof | Ausgabe ob Zahl zu gross ist                           |22 min|
-| 6.B  | 1.9.22  | Bischof | Ausgabe ob Zahl zu klein ist                           |22 min|
-| 7.A  | 1.9.22  | Bischof |  Ausgabe Anzahl versuchen                              |45 min|
+| 6.A  | 1.9.22  | Bischof | Ausgabe ob Zahl zu gross ist                           |10 min|
+| 6.B  | 1.9.22  | Bischof | Ausgabe ob Zahl zu klein ist                           |10 min|
+| 7.A  | 1.9.22  | Bischof |  Ausgabe Anzahl versuchen                              |30 min|
 
 
 
@@ -83,7 +83,7 @@ Total:
 | 1.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
 | 1.b  |  1.9     |   Gabriel        |    10 min           |       20 min             |
 | 2.A  |  1.9     |   Gabriel        |    15 min           |      20 min             |
-| 3.A  |   8.9    |   Gabriel        |    30 min           |       - min             |
+| 3.A  |   8.9    |   Gabriel        |    30 min           |       20 min             |
 | 4.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
 | 5.A  |  1.9     |   Gabriel        |    22 min           |       40 min            |
 | 6.B  |  1.9     |   Gabriel        |    22 min           |        30 min             |

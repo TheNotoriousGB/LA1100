@@ -1,9 +1,9 @@
 # LA1100
  Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+
+Gabriel Bischof
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -30,7 +30,6 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 | 6    |     Muss        |    Funktional    | Als ein Spieler möchte ich wissen wie viele Versuche ich gebraucht habe, damit ich meine Versuche vergleichen kann. |
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -43,7 +42,7 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 | 5.1 |  Falsche Zahl die Zahl ist grösser          |    *zufällige Zahl* |     Die Zahl ist kleiner als 45    |
 | 5.2 |  Falsche Zahl die Zahl ist kleiner         |   *zufällige Zahl*      |    Die Zahl ist grösser als 12      |
 | 6.1 |  Versuche der Spieler eingerichtet            |  *Richtige Nummer erraten*       |   Du hast *Anzahl Versuche* gebraucht, um die Zahl zu erraten   |
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+.
 
 ### 1.4 Diagramme
 
@@ -68,13 +67,11 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 
 Total: 180
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich habe mich entschieden aus zeitlichen Gründen nur die vorhandenen User Stories zu bearbeiten
 
 ## 4 Realisieren
 
@@ -90,7 +87,7 @@ Total: 180
 | 7.A  | 1.9      |   Gabriel        |     45min           |       45 min             |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -115,7 +112,7 @@ Fazit: Alle User's Stories funktionieren einwandfrei.
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 Link zum Lernbericht

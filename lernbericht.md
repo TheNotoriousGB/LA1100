@@ -48,9 +48,13 @@ Zusammengefasst kann also Switch Case helfen den Code strukturierter und übersi
 ## Verifikation
 
 Text: Beschreibt wie man Switch Case verwenden kann und wo sie einen Vorteil bieten.
+
 Code: Zeigt ein Beispiel wie ein Switch Case aussehen kann.
+
 Bild : Zeigt ein weiteres Beispiel wie man Switch Case verwenden kann.
+
 GIF : Zeigt das Numberguessing Spiel mit Switch Case.
+
 
 
 # Reflektion zum Arbeitsprozess

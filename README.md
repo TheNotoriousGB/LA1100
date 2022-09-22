@@ -183,5 +183,5 @@ Ich habe zu wenig Pause gemacht welches ein Grund für Fehler war die ich währe
 Ausserdem hatte ich an einem Tag zu wenig Schlaf, welches sich auch ein klein wenig Negativ ausgewirkt hat.
 
 **VBV**: 
-Versuchen nach langen Arbeitsstunden pause zu machen und nicht vergessen etwas zu trinken und etwas zu essen.
-Früher ins Bett zu gehen das erleichtert mir auch das Realisieren.
+Versuchen nach langen Arbeitsstunden Pause zu machen und nicht vergessen etwas zu trinken und etwas zu essen.
+Das früher ins Bett zu gehen das erleichtert mir auch das Realisieren.

@@ -147,7 +147,7 @@ do
 //Befehl
 
 
-}while () //das zutrifft
+}while () // wenn das zutrifft
 
 break;
 
@@ -179,7 +179,7 @@ GIF : Zeigt das Numberguessing Spiel mit Switch Case.
 Während der Arbeit habe ich mehrheitlich konzentriert gearbeitet und wenn es Probleme gab, habe ich nicht direkt das Handtuch geworfen.
 Ausserdem habe ich meist Zielorientiert gearbeitet, dass heisst mit Hilfe der User Stories.
 
-Ich habe zu wenig Pause gemacht welches ein Grund für Fehler die ich während dem Realisieren gemacht habe.
+Ich habe zu wenig Pause gemacht welches ein Grund für Fehler war die ich während dem Realisieren gemacht habe.
 Ausserdem hatte ich an einem Tag zu wenig Schlaf welches sich auch ein klein wenig Negativ ausgewirkt hat.
 
 **VBV**: 

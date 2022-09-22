@@ -119,4 +119,60 @@ Fazit: Alle User's Stories funktionieren einwandfrei.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+# Lern-Bericht
+Von Gabriel Bischof
+
+## Einleitung
+
+Wir haben im Modul LA 1100 ein Number guessing Spiel erstellt.
+
+## Was habe ich gelernt?
+
+Ich habe gelernt wie man Switch Case verwendet und wo man sie am besten einsetzten kann.
+
+## Beschreibung
+
+Switch Case sollen den ganzen Code ein bisschen übersichtlicher zbsp. Wenn man zu viele Alternationen im Code hat.
+Das heisst also das Switch Case den Code eleganter.
+
+Switch Case können aber auch Fehler Abfangen,dass passiert mit dem Case *default*.
+```csharp 
+int zahlenreihenfolge 
+
+switch(zahlenreihenfolge)
+case int n when (eingebeneZahl < 101 && eingebeneZahl > 1):
+do
+{
+//Befehl
+}while () //das zutrifft
+
+break;
+
+default:
+
+Console.WriteLine("Falsche Eingabe"); //abfangen von Fehler
+
+```
+Zusammengefasst kann also Switch Case helfen den Code strukturierter und übersichtlicher zumachen vorallem wenn man viele Alternationen im Code besitzt
+![image](https://user-images.githubusercontent.com/111046337/191687305-f2a5f584-863a-49c4-b843-028f7fbe92ae.png)
+!![code](https://user-images.githubusercontent.com/111046337/191689889-6ff7ef82-9f76-428f-beeb-0284d4607d02.gif)
+
+
+✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
+* Eine textliche Beschreibung
+* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+* Ein gut dokumentierter Code-Fetzen
+* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+## Verifikation
+
+✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
+# Reflektion zum Arbeitsprozess
+
+👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+
+👎 und etwas, was nicht gut lief.
+
+**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.

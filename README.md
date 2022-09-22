@@ -143,36 +143,45 @@ switch(zahlenreihenfolge)
 case int n when (eingebeneZahl < 101 && eingebeneZahl > 1):
 do
 {
+
 //Befehl
+
+
 }while () //das zutrifft
 
 break;
 
 default:
 
-Console.WriteLine("Falsche Eingabe"); //abfangen von Fehler
+Console.WriteLine("Falsche Eingabe");    //abfangen von Fehler
 
 ```
-Zusammengefasst kann also Switch Case helfen den Code strukturierter und übersichtlicher zumachen vorallem wenn man viele Alternationen im Code besitzt
+Zusammengefasst kann also Switch Case helfen den Code strukturierter und übersichtlicher zu machen vor allem wenn man viele Alternationen im Code besitzt
+
 ![image](https://user-images.githubusercontent.com/111046337/191687305-f2a5f584-863a-49c4-b843-028f7fbe92ae.png)
+
+
 !![code](https://user-images.githubusercontent.com/111046337/191689889-6ff7ef82-9f76-428f-beeb-0284d4607d02.gif)
 
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Text: Beschreibt wie man Switch Case verwenden kann und wo sie einen Vorteil bieten.
+Code: Zeigt ein Beispiel wie ein Switch Case aussehen kann.
+Bild : Zeigt ein weiteres Beispiel wie man Switch Case verwenden kann.
+GIF : Zeigt das Numberguessing Spiel mit Switch Case.
+
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Während der Arbeit habe ich mehrheitlich konzentriert gearbeitet und wenn es Probleme gab, habe ich nicht direkt das Handtuch geworfen.
+Ausserdem habe ich meist Zielorientiert gearbeitet, dass heisst mit Hilfe der User Stories.
 
-👎 und etwas, was nicht gut lief.
+Ich habe zu wenig Pause gemacht welches ein Grund für Fehler die ich während dem Realisieren gemacht habe.
+Ausserdem hatte ich an einem Tag zu wenig Schlaf welches sich auch ein klein wenig Negativ ausgewirkt hat.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
+Versuchen nach langen Arbeitsstunden pause zu machen und nicht vergessen etwas zu trinken und etwas zu essen.
+Früher ins Bett zu gehen das erleichtert mir auch das Realisieren.

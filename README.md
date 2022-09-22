@@ -66,7 +66,7 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 
 
 
-Total: 
+Total: 180
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 

@@ -79,7 +79,7 @@ start:
 
 
                     }
-                    else
+                    else if (question == 'n')
                     {
                         Console.WriteLine("Schliessen sie das Fenster ");
                     }

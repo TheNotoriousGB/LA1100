@@ -7,9 +7,9 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  1.9 |  1.0.0   | Ich habe an die fast alles hinbekommen in den User Stories jedoch funktionieren viele Schleifen nicht und die Fehlermeldung habe ich auch noch nicht hinbekommen |
-| 8.9      | Ich habe fast alles fertig die schleifen funktionieren da ich nicht mehr so viel If benutzt habe und mehr mit switch cases gearbeitet habe.   |                                                              |
-|       | 1.0.0   |                                                              |
+|  1.9.2022 |  1.0.0   | Ich habe an die fast alles hinbekommen in den User Stories jedoch funktionieren viele Schleifen nicht und die Fehlermeldung habe ich auch noch nicht hinbekommen |
+| 8.9.2022      | Ich habe fast alles fertig die schleifen funktionieren da ich nicht mehr so viel If benutzt habe und mehr mit switch cases gearbeitet habe.   |                                                              |
+| 15.09 - 22.09.2022      | 1.0.0   | Github eingerichtet und bearbeitet. |
 
 ## 1 Informieren
 
@@ -40,9 +40,9 @@ Das Spiel gibt eine Zahl von 1-100 vor und als Spieler muss man diese Zahl herau
 | 2.1 |  Eingabe einer Zahl            |   23      |  *zufällige Zahl* *Eingabe der Zahl*                 |
 | 3.1  | Fehlermeldung bei Falscher Zahl           |   123      |  Falsche Eingabe bitte wählen sie ein Natürliche Zahl von 1-100 und geben sie Ziffern ein                 |
 | 4.1 |  Richtige Zahl bestimmt            | 23        |  Richtige Zahl  |
-| 5.1 |  Falsche Zahl die Zahl ist grösser          |    45     |     Die Zahl ist kleiner als 45    |
-| 5.2 |  Falsche Zahl die Zahli ist grösser          |   12      |    Die Zahl ist grösser als 12      |
-| 6.1 |  Versuche der Spieler eingerichtet            |  Vorgang       |   Du hast *Anzahl Versuche* gebraucht, um die Zahl zu erraten   |
+| 5.1 |  Falsche Zahl die Zahl ist grösser          |    *zufällige Zahl* |     Die Zahl ist kleiner als 45    |
+| 5.2 |  Falsche Zahl die Zahl ist kleiner         |   *zufällige Zahl*      |    Die Zahl ist grösser als 12      |
+| 6.1 |  Versuche der Spieler eingerichtet            |  *Richtige Nummer erraten*       |   Du hast *Anzahl Versuche* gebraucht, um die Zahl zu erraten   |
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
@@ -80,14 +80,14 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
-| 1.b  |  1.9     |   Gabriel        |    10 min           |       20 min             |
-| 2.A  |  1.9     |   Gabriel        |    15 min           |      20 min             |
-| 3.A  |   8.9    |   Gabriel        |    30 min           |       20 min             |
-| 4.A  |  1.9     |   Gabriel        |    45 min           |      10 min             |
-| 5.A  |  1.9     |   Gabriel        |    22 min           |       40 min            |
-| 6.B  |  1.9     |   Gabriel        |    22 min           |        30 min             |
-| 7.A  | 1.9      |   Gabriel        |     45min           |       30 min             |
+| 1.A  |  1.9     |   Gabriel        |    45 min           |      25 min             |
+| 1.b  |  1.9     |   Gabriel        |    10 min           |       45 min             |
+| 2.A  |  1.9     |   Gabriel        |    15 min           |      25 min             |
+| 3.A  |   8.9    |   Gabriel        |    30 min           |       45 min             |
+| 4.A  |  1.9     |   Gabriel        |    45 min           |      15 min             |
+| 5.A  |  8.9     |   Gabriel        |    22 min           |       100 min            |
+| 6.B  |  8.9     |   Gabriel        |    22 min           |        45 min             |
+| 7.A  | 1.9      |   Gabriel        |     45min           |       45 min             |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
@@ -98,10 +98,15 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 2.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 3.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 4.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 5.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 5.2  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
+| 6.1  |   22.09.2022    |  Funktioniert        |    Gabriel Bischof    |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Alle User's Stories funktionieren einwandfrei.
 
 ### 5.2 Exploratives Testen
 

@@ -8,8 +8,8 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  1.9.2022 |  1.0.0   | Ich habe an die fast alles hinbekommen in den User Stories jedoch funktionieren viele Schleifen nicht und die Fehlermeldung habe ich auch noch nicht hinbekommen |
-| 8.9.2022      | Ich habe fast alles fertig die schleifen funktionieren da ich nicht mehr so viel If benutzt habe und mehr mit switch cases gearbeitet habe.   |                                                              |
-| 15.09 - 22.09.2022      | 1.0.0   | Github eingerichtet und bearbeitet. |
+| 8.9.2022      | 2.0.0   |    Ich habe fast alles fertig die schleifen funktionieren da ich nicht mehr so viel If benutzt habe und mehr mit switch cases gearbeitet habe.                                                          |
+| 15.09 - 22.09.2022      | 2.0.0   | Github eingerichtet und bearbeitet. |
 
 ## 1 Informieren
 

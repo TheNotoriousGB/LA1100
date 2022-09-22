@@ -180,7 +180,7 @@ Während der Arbeit habe ich mehrheitlich konzentriert gearbeitet und wenn es Pr
 Ausserdem habe ich meist Zielorientiert gearbeitet, dass heisst mit Hilfe der User Stories.
 
 Ich habe zu wenig Pause gemacht welches ein Grund für Fehler war die ich während dem Realisieren gemacht habe.
-Ausserdem hatte ich an einem Tag zu wenig Schlaf welches sich auch ein klein wenig Negativ ausgewirkt hat.
+Ausserdem hatte ich an einem Tag zu wenig Schlaf, welches sich auch ein klein wenig Negativ ausgewirkt hat.
 
 **VBV**: 
 Versuchen nach langen Arbeitsstunden pause zu machen und nicht vergessen etwas zu trinken und etwas zu essen.
